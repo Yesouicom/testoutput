@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
-Sitemap: https://gutemberg.staging.yesouicom.xyz//wp-sitemap.xml
+Sitemap: https://yesouicom.github.io/testoutput//wp-sitemap.xml
